@@ -6,7 +6,7 @@ This project is a simple Movie Review application built using:
 - Backend Database: Firebase Firestore (NoSQL)
 
 ## Features
-- Users can submit movie name, rating and review
+- Users can submit movie details and give ratings/reviews
 - Data is stored in Firebase Firestore
 - Reviews are displayed in the "Latest Reviews" section
 
